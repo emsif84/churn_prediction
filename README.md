@@ -1,4 +1,4 @@
-# 1 Background
+# 1 Background and Goals
 
 * Source: https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/input
 * You can find the description about the variables in the link.
