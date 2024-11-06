@@ -9,9 +9,11 @@
 
 # 3 Executive Summary
 
-# 4 Recommendations
+# 4 Insights
 
-# 5 Caveats
+# 5 Recommendations
+
+# 6 Caveats
 
 
 
