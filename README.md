@@ -13,7 +13,7 @@
 
 # 5 Recommendations
 
-# 6 Caveats
+# 6 Caveat
 
 
 
