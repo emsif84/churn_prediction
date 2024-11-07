@@ -14,6 +14,13 @@
     * InternetService: Levels [DSL,Fiber optic, No]
     * PaperlessBilling: Levels [Yes, No]
     * PaymentMethod: Levels [Electronic check,Mailed check,Bank transfer (automatic),Credit card (automatic)]
+3. Feature variables:
+    * PhoneService
+    * MultipleLines
+    * OnlineSecurity
+    * OnlineBackup
+    * Device Protection
+    * TechSupport
 
 # 3 Executive Summary
 * In total, 26% of the customers churn within 6 years. This makes a total loss of $2.857.223 (18% of total charges) and a loss per month of $396.840.
