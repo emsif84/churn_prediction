@@ -8,15 +8,10 @@
 # 2 Data Structure
 
 # 3 Executive Summary
-* In total, 26% Customers churn within 6 years. This makes a loss of $2.857.223 (18% of TotalCharges).
-* 55% of customers have Month-to-month contract, followed by customers which have a two year contract (24%) and a one year contract (21%).
-* Customers which have a Month-to-month contract have a churn rate of 43%, whereas customers which have a one year contract have a churn rate of 10%, followed by 3% of customers which have a two year contract.
-* The most influential variable on churn is the contract type with a correlation of 0,41\*
-
-
-\* (Cramers V, p < 0,001)
-
-# 4 Insights
+* In total, 26% Customers churn within 6 years. This makes a loss of $2.857.223 (18% of Total charges).
+* 55% of customers have a month-to-month contract, followed by customers which have a two year contract (24%) and a one year contract (21%).
+* Looking at the churn rate per contract type, customers with a month-to-month contract have the highest rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of only 3%.
+* The most influential variable on churn is contract type with a correlation of 0.41 (moderat relationship). The lowest correlation with churn is gender (0.009).
 
 # 5 Recommendations
 
