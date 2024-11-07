@@ -6,7 +6,7 @@
 * Why did I choose this dataset? Simply because i´m currently working in the telco industry and therefore familiar with this kind of data.
 
 # 2 Data Structure
-* The dataset has 7043 observations and 21 variables which can be divided into x classes. The classes and description of the variables are as follow:
+* The dataset has `7043 observations` and `21 variables` which can be divided into x classes. The classes and description of the variables are as follow:
 
 1. `Key variable`: 
     * CustomerID
