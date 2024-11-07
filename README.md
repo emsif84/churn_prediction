@@ -8,13 +8,14 @@
 # 2 Data Structure
 * The dataset has 7043 observations and 21 variables which can be divided into x classes. The classes and description of the variables are as follow:
 
-1. Key variable: CustomerID
-2. Contract variables:
+1. `Key variable`: 
+    * CustomerID
+2. `Contract variables`:
     * Contract: Levels [Month-to-month, One year, Two year]
     * InternetService: Levels [DSL,Fiber optic, No]
     * PaperlessBilling: Levels [Yes, No]
     * PaymentMethod: Levels [Electronic check,Mailed check,Bank transfer (automatic),Credit card (automatic)]
-3. Feature variables:
+3. `Feature variables`:
     * PhoneService
     * MultipleLines
     * OnlineSecurity
