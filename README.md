@@ -8,7 +8,7 @@
 # 2 Data Structure
 
 # 3 Executive Summary
-* In total, 26% of the customers churn within 6 years. This makes a loss of $2.857.223 (18% of Total charges).
+* In total, 26% of the customers churn within 6 years. This makes a total loss of $2.857.223 (18% of total charges) and a loss per month of $396.840
 * 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%).
 * Looking at the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of only 3%.
 * When looking closer to the churn rate among tenure, a high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months. This very high proportion apply only to customers with a month to month contract, due to their not existing minimal contract duration.  
