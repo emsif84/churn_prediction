@@ -1,9 +1,8 @@
 # 1 Background and Goals
 
 * Source: https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/input
-* You can find the description about the variables in the link.
-* The analysis is divided into 2 parts: The first part is about customer and revenue churn and the second part is about churn prediction using machine learning models. The second part has not been published yet.
-* Why did I choose this dataset? Simply because i´m currently working in the telco industry and therefore familiar with this kind of data.
+* Why did I choose this dataset? I am currently working in the telco industry and therefore i am familiar with this kind of data.
+* The goal of this analysis is to explore the churn und revenue rate as well as to find patterns how the variables interact with churn. Based on the findings an another goal is to give recommendations to decrease the churn rate on a long-run. 
 
 # 2 Data Structure
 * The dataset has `7043 observations` and `21 variables` which can be divided into `7 classes`:
