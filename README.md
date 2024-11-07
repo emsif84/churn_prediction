@@ -10,18 +10,33 @@
 
 1. `Key variable`: 
     * CustomerID
-2. `Contract variables`:
+2. `Essential variables`:
     * Contract: Levels [Month-to-month, One year, Two year]
     * InternetService: Levels [DSL,Fiber optic, No]
-    * PaperlessBilling: Levels [Yes, No]
     * PaymentMethod: Levels [Electronic check,Mailed check,Bank transfer (automatic),Credit card (automatic)]
 3. `Feature variables`:
+    * PaperlessBilling: Levels [Yes, No]
     * PhoneService: Levels [Yes, No]
     * MultipleLines: Levels [Yes, No, No phone service]
     * OnlineSecurity: Levels [Yes, No, No internet service]
     * OnlineBackup: Levels [Yes, No, No internet service]
     * Device Protection: Levels [Yes, No, No internet service]
     * TechSupport: Levels [Yes, No, No internet service]
+4. `Financial variables`
+    * MonthlyCharges
+    * TotalCharges
+5. `Behavioural variables`
+    * StreamingTV: Levels [Yes, No, No internet service]
+    * StreamingMovies: Levels [Yes, No, No internet service]
+    * Churn: Levels [Yes, No]
+6. `Socio-democraphic variables`
+    * gender: Levels [Female, Male]
+    * SeniorCitizen: Levels [Yes, No]
+    * Partner: Levels [Yes, No]
+    * Dependents: Levels [Yes, No]
+7. `Time variable`
+    * tenure: in months
+
 
 # 3 Executive Summary
 * In total, 26% of the customers churn within 6 years. This makes a total loss of $2.857.223 (18% of total charges) and a loss per month of $396.840.
