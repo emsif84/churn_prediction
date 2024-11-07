@@ -29,7 +29,7 @@
     * StreamingTV: Levels [Yes, No, No internet service]
     * StreamingMovies: Levels [Yes, No, No internet service]
     * Churn: Levels [Yes, No]
-6. `Socio-democraphic variables`
+6. `Socio-demographic variables`
     * gender: Levels [Female, Male]
     * SeniorCitizen: Levels [Yes, No]
     * Partner: Levels [Yes, No]
