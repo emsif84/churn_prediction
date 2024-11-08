@@ -38,7 +38,7 @@ The dataset has `7043 observations` and `21 variables` which can be divided into
 
 
 # 3 Executive Summary
-In total, 26% of the customers churn within 6 years.<br><br>
+In total, based on this data snippet 26% of the customers churn within 6 years. The asset decreases from 7033 to 5202 customers after 6 years<br><br>
 
 
 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%).
