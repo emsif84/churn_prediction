@@ -45,7 +45,7 @@ The dataset has `7043 observations` and `21 variables` which can be divided into
 * The most influential variables on churn have contract type,online security and tech support (moderat relationship). The lowest relationship with churn have multiple lines, phone service and gender.
 
 
-!(/assets/img/Distribution%20Contract%20Types%20and%20Churn.pngGithub/assets/img/)
+!(/assets/img/'Distribution Contract Types and Churn.png)
 
 # 5 Recommendations
 
