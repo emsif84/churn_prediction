@@ -38,25 +38,21 @@ The dataset has `7043 observations` and `21 variables` which can be divided into
 
 
 # 3 Executive Summary
-In total, 26% of the customers churn within 6 years. This makes a total loss of $2.857.223 (18% of total charges) and a loss per month of $396.840. 
-
+In total, 26% of the customers churn within 6 years. This makes a total loss of $2.857.223 (18% of total charges) and a loss per month of $396.840.<br><br>
 
 
 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%).
 
 ![Distribution Contract Types and Churn](/assets/img/Distribution_Contract_Types_and_Churn.png)
 
-Looking at the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%.
-
+Looking at the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%.<br><br>
 
 
 When looking closer to the churn rate among tenure, a high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months. 
 
 ![Total Distribution of Churn among tenure](/assets/img/Total_Distribution_of_Churn_among_tenure.png)
 
-This very high proportion apply only to customers with a month to month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month to month contracts at the same time.
-
-
+This very high proportion apply only to customers with a month to month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month to month contracts at the same time.<br><br>
 
 
 The most influential variables on churn have contract type,online security and tech support (moderat relationship). The lowest relationship with churn have multiple lines, phone service and gender.
