@@ -47,6 +47,10 @@ The dataset has `7043 observations` and `21 variables` which can be divided into
 
 ![Distribution Contract Types and Churn](/assets/img/Distribution_Contract_Types_and_Churn.png)
 
+
+
+![Total Distribution of Churn among tenure](/assets/img/Total_Distribution_of_Churn_among_tenure)
+
 # 5 Recommendations
 
 # 6 Caveat
