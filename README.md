@@ -5,7 +5,7 @@
 * The goal of this analysis is to explore the churn und revenue rate as well as to find patterns how the variables interact with churn. Based on the findings an another goal is to give recommendations to decrease the churn rate on a long-run. 
 
 # 2 Data Structure
-The dataset has `7043 observations` and `21 variables` which can be divided into `7 classes`:
+After tidying the dataset has `7030 observations` and `21 variables` which can be divided into `7 classes`:
 
 1. `Key variable`: 
     * CustomerID
