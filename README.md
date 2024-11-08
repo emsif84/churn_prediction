@@ -38,7 +38,7 @@ The dataset has `7043 observations` and `21 variables` which can be divided into
 
 
 # 3 Executive Summary
-In total, 26% of the customers churn within 6 years. This makes a total loss of $2.857.223 (18% of total charges) and a loss per month of $396.840.<br><br>
+In total, 26% of the customers churn within 6 years.<br><br>
 
 
 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%).
