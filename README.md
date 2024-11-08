@@ -54,7 +54,7 @@ When looking closer to the churn rate among tenure, a high proportion of custome
 
 ![Total Distribution of Churn among tenure](/assets/img/Total_Distribution_of_Churn_among_tenure.png)
 
-This very high proportion apply only to customers with a month to month contract, due to their not existing minimal contract duration. 
+This very high proportion apply only to customers with a month to month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month to month contracts at the same time.
 
 
 
