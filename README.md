@@ -58,6 +58,8 @@ This very high proportion apply soley to customers with a month-to-month contrac
 The most influential variables on churn have contract type,online security and tech support (moderat relationship). The lowest relationship with churn have multiple lines, phone service and gender.
 
 
+![Mean TotalCharges by Internet Service among tenure](/assets/img/Mean_TotalCharges_by_Internet_Service_among_tenure.png)
+
 
 
 
