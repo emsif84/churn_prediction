@@ -55,7 +55,7 @@ When looking closer to the churn rate among tenure, a high proportion of custome
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time.<br><br>
 
 
-The most influential variables on churn have contract type,online security and tech support (moderat relationship). The lowest relationship with churn have multiple lines, phone service and gender. [more details](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb#Churn among categorical variables)
+The most influential variables on churn have contract type,online security and tech support (moderat relationship). The lowest relationship with churn have multiple lines, phone service and gender. [more details](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb#3.4_Churn_among_categorical_variables)
 
 
 ![Mean Monthly Charges by Internet Service](/assets/img/Mean_Monthly_Charges_by_Internet_Service.png)
