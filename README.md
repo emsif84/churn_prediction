@@ -48,11 +48,11 @@ In total, based on this data 26% of the customers has churned in 6 years. The cu
 Looking at the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%.<br><br>
 
 
-When looking closer to the churn rate among tenure, a high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months. 
+When looking closer to the churn rate among tenure, a high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months.  
 
 ![Total Distribution of Churn among tenure](/assets/img/Total_Distribution_of_Churn_among_tenure.png)
 
-This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time.<br><br>
+This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. Therefore the question comes up, why such a high proportion of customers churns within the first months. To answer this question, the data was divided into lower and upper 8 months.<br><br>
 
 
 The most influential variables on churn are contract type,online security, tech support and internet service (moderat relationship). Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have a small influence on churn.
