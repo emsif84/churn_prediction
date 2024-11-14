@@ -59,26 +59,11 @@ This very high proportion apply soley to customers with a month-to-month contrac
 ## 3.2 Relationship Churn with variables
 When looking at the relationship between the variables and churn, customers with no internet service have the lowest churn rate among the variables Online Security, Online Backup, Devide Protection, Tech Support, Streaming Movies and Streaming TV. However, customers which have internet service have higher churn rates when not making use of the variables Online Security, Online Backup, Devide Protection and Tech Support. The correlation between these variables and churn is statistically significant with a moderat relationship:
 
-1. Online Security      0.35**
-2. Tech Support         0.34**
-3. Online Backup        0.29**
-4. Device Protection    0.28**
-5. Streaming Movies     0.23**
-6. Streaming TV         0.23**
-
-(low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)
-
 Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
 
-1. Dependents           0.16**
-2. Senior Citizen       0.15**
-3. Partner              0.15**
-4. Gender               0.009
-
-(low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)
-
-
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
+
+(low effect: 0.1; medium effect: 0.3; high effect: 0.5)
 
 
 ## 3.3 Financial effects on Churn
