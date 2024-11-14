@@ -62,7 +62,6 @@ When looking at the relationship between the variables and churn, customers with
 Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
 
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
-
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5)
 
 
