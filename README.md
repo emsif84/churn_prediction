@@ -55,9 +55,18 @@ When looking closer to the churn rate among tenure, a high proportion of custome
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. Therefore the question comes up, why such a high proportion of customers churns within the first months. To answer this question, the data was divided into lower and upper 8 months.<br><br>
 
 
-The most influential variables on churn are contract type,online security, tech support and internet service (moderat relationship). Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have a small influence on churn.
+When looking at the relationship between the variables and churn, customers with no internet service have the lowest churn rate among the variables Online Security, Online Backup, Devide Protection, Tech Support, Streaming Movies and Streaming TV. However, customers which have internet service have higher churn rates when not making use of the variables Online Security, Online Backup, Devide Protection and Tech Support. The correlation between these variables and churn is statistically significant with a moderat relationship:
 
- [more details in Section 3.4](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb)
+1. Online Security      0.35**
+2. Tech Support         0.34**
+3. Online Backup        0.29**
+4. Device Protection    0.28**
+5. Streaming Movies     0.23**
+6. Streaming TV         0.23**
+
+low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001
+
+Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have a small influence on churn. The relationsship are as follow:[more details in Section 3.4](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb)
 
 
 ![Mean Monthly Charges by Internet Service](/assets/img/Mean_Monthly_Charges_by_Internet_Service.png)
