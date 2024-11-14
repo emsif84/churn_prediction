@@ -64,7 +64,7 @@ Interestingly, on the other hand, all socio-demographic variables - gender, depe
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5)
 
-As already mentioned in Section 3.1, the contract types have a big impact on Churn with a statistically significant correlation of 0.41.
+As already mentioned in Section 3.1, the contract types have a big impact on Churn. Ultimately contract types have the highest correlation with churn among all categorical variables. The correlation is statistically significant with a value of 0.41 
 
 
 
