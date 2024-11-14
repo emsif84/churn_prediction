@@ -68,7 +68,17 @@ When looking at the relationship between the variables and churn, customers with
 
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)
 
-Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have a small influence on churn. [more details in Section 3.4](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb)
+Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
+
+1. Dependents           0.16**
+2. Senior Citizen       0.15**
+3. Partner              0.15**
+4. Gender               0.009
+
+(low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)
+
+
+[more details in Section 3.4](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb)
 
 
 ## 3.3 Financial effects on Churn
