@@ -78,7 +78,7 @@ Interestingly, on the other hand, all socio-demographic variables - gender, depe
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)
 
 
-[Correlation between Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
+[Correlation List Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
 
 
 ## 3.3 Financial effects on Churn
