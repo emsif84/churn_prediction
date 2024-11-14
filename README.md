@@ -55,8 +55,12 @@ When looking closer to the churn rate among tenure, a high proportion of custome
 
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. Therefore the question comes up, why such a high proportion of customers churns within the first months. To answer this question, the data was divided into lower and upper 8 months.
 
+## 3.2 Financial aspects
 
-## 3.2 Relationship Churn with categorical variables
+![Mean Monthly Charges by Internet Service](/assets/img/Mean_Monthly_Charges_by_Internet_Service.png)
+
+
+## 3.3 Relationship Churn with categorical variables
 When looking at the relationship between the categorical variables and churn, customers with no internet service have the lowest churn rate among the variables Online Security, Online Backup, Devide Protection, Tech Support, Streaming Movies and Streaming TV. However, customers which have internet service have higher churn rates when not making use of the variables Online Security, Online Backup, Devide Protection and Tech Support. The correlation between these variables and churn is statistically significant (p < .01) with a moderat relationship.
 
 Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
@@ -64,22 +68,13 @@ Interestingly, on the other hand, all socio-demographic variables - gender, depe
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5)
 
-As already mentioned in Section 3.1, the contract types have a big impact on Churn. Ultimately contract types have the highest correlation with churn among all categorical variables. The correlation is statistically significant with a value of 0.41 
+As already mentioned in Section 3.1, the contract types have a big impact on Churn. Ultimately contract types have the highest correlation with churn among all categorical variables. The correlation is statistically significant with a value of 0.41. Noteworthly is also the variable Payment Method.  
 
 
 
+# 4 Recommendations
 
-## 3.3 Financial effects on Churn
-
-
-![Mean Monthly Charges by Internet Service](/assets/img/Mean_Monthly_Charges_by_Internet_Service.png)
-
-
-
-
-# 5 Recommendations
-
-# 6 Caveat
+# 5 Caveat
 
 
 
