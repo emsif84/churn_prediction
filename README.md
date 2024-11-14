@@ -66,7 +66,7 @@ When looking at the relationship between the variables and churn, customers with
 5. Streaming Movies     0.23**
 6. Streaming TV         0.23**
 
-*(low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)*
+(*low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001*)
 
 Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
 
@@ -75,7 +75,7 @@ Interestingly, on the other hand, all socio-demographic variables - gender, depe
 3. Partner              0.15**
 4. Gender               0.009
 
-*(low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001)*
+(*low effect: 0.1; medium effect: 0.3; high effect: 0.5; **sig p < .001*)
 
 
 [more details in Section 3.4](https://github.com/emsif84/churn_prediction/blob/main/exploratory_data_analysis.ipynb)
