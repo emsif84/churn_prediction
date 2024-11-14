@@ -64,6 +64,8 @@ Interestingly, on the other hand, all socio-demographic variables - gender, depe
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5)
 
+As already mentioned in Section 3.1, Contract has a big impact on Churn with a statistically significant correlation of 0.41. 
+
 
 ## 3.3 Financial effects on Churn
 
