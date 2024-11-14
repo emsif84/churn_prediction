@@ -56,7 +56,7 @@ When looking closer to the churn rate among tenure, a high proportion of custome
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. Therefore the question comes up, why such a high proportion of customers churns within the first months. To answer this question, the data was divided into lower and upper 8 months.
 
 
-## 3.2 Relationship Churn with variables
+## 3.2 Relationship Churn with categorical variables
 When looking at the relationship between the variables and churn, customers with no internet service have the lowest churn rate among the variables Online Security, Online Backup, Devide Protection, Tech Support, Streaming Movies and Streaming TV. However, customers which have internet service have higher churn rates when not making use of the variables Online Security, Online Backup, Devide Protection and Tech Support. The correlation between these variables and churn is statistically significant with a moderat relationship:
 
 Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
