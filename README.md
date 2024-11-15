@@ -45,7 +45,7 @@ In total, based on this data 26% of the customers has churned in 6 years. The cu
 
 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%).
 
-![Distribution Contract Types and Churn](/assets/img/Distribution_Contract_Types_and_Churn.png)
+![Churn by Internet Service and Contract Types](/assets/img/churn_by_contracttypes_internetservice.png)
 
 Looking at the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%.
 
