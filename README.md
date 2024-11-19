@@ -65,9 +65,6 @@ Interestingly, customers without internet service, tend to churn less compared t
 
 Finally, all socio-demographic variables - gender, dependents, partner and senior citizen, have small correlations with churn.
 
-![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
-(low effect: 0.1; medium effect: 0.3; high effect: 0.5)  
-
 
 # 4 Recommendations
 
