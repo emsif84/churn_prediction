@@ -54,12 +54,8 @@ When analysing the churn rate among tenure, a high high proportion of customers 
 
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. Therefore the question comes up, why such a high proportion of customers churns within the first months. To answer this question, the data was divided into lower and upper 8 months.
 
-## 3.2 Financial aspects
 
-![Mean Monthly Charges by Internet Service](/assets/img/Mean_Monthly_Charges_by_Internet_Service.png)
-
-
-## 3.3 Correlation Churn with variables
+## 3.2 Correlation Churn with variables
 
 In general, churn has at most a moderate relationship with the other variables. The strongest relationship with churn has contract types with a statistically significant correlation of 0.4, followed by Online security (0.35) and Tech Support (0,34). 
 
@@ -71,7 +67,6 @@ Finally, all socio-demographic variables - gender, dependents, partner and senio
 
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
 (low effect: 0.1; medium effect: 0.3; high effect: 0.5)  
-
 
 
 # 4 Recommendations
