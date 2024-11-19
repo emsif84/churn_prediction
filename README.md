@@ -65,6 +65,8 @@ In general, churn has at most a moderate relationship with the other variables. 
 
 Interestingly, customers without internet service, tend to churn less compared to customers with internet service. When focusing on the customers with internet service, they are more likely to churn if they don´t take advantage of the features Online Security, Online Backup, Device Protection and Tech Support.
 
+![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
+
 Finally, all socio-demographic variables - gender, dependents, partner and senior citizen, have small correlations with churn.
 
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
