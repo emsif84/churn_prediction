@@ -59,15 +59,16 @@ This very high proportion apply soley to customers with a month-to-month contrac
 ![Mean Monthly Charges by Internet Service](/assets/img/Mean_Monthly_Charges_by_Internet_Service.png)
 
 
-## 3.3 Relationship Churn with categorical variables
-When looking at the relationship between the categorical variables and churn, customers with no internet service have the lowest churn rate among the variables Online Security, Online Backup, Devide Protection, Tech Support, Streaming Movies and Streaming TV. However, customers which have internet service have higher churn rates when not making use of the variables Online Security, Online Backup, Devide Protection and Tech Support. The correlation between these variables and churn is statistically significant (p < .01) with a moderat relationship.
+## 3.3 Correlation Churn with variables
 
-Interestingly, on the other hand, all socio-demographic variables - gender, dependents, partner and senior citizen, have small impacts on churn with respectively small correlations:
+In general, churn has at most a moderate relationship with the other variables. The strongest relationship with churn has contract types with a statistically significant correlation of 0.4, followed by Online security (0.35) and Tech Support (0,34). 
+
+Interestingly, customers without internet service, tend to churn less compared to customers with internet service. When focusing on the customers with internet service, they are more likely to churn if they don´t take advantage of the features Online Security, Online Backup, Device Protection and Tech Support.
+
+Finally, all socio-demographic variables - gender, dependents, partner and senior citizen, have small correlations with churn.
 
 ![Correlations Churn and categorical variables](/assets/img/Correlation_between_Churn_and_categorical_variables.png)
-(low effect: 0.1; medium effect: 0.3; high effect: 0.5)
-
-As already mentioned in Section 3.1, the contract types have a big impact on Churn. Ultimately contract types have the highest correlation with churn among all categorical variables. The correlation is statistically significant with a value of 0.41. Noteworthly is also the variable Payment Method.  
+(low effect: 0.1; medium effect: 0.3; high effect: 0.5)  
 
 
 
