@@ -52,18 +52,19 @@ When analysing the churn rate among tenure, a high high proportion of customers 
 
 ![Total Distribution of Churn among tenure](/assets/img/Total_Distribution_of_Churn_among_tenure.png)
 
-This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. Therefore the question comes up, why such a high proportion of customers churns within the first months. To answer this question, the data was divided into lower and upper 8 months.
+This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. This finding will be discussed in the following section.
 
 
 ## 3.2 Correlation Churn with variables
 
-In general, churn has at most a moderate relationship with the other variables. The strongest relationship with churn has contract types with a statistically significant correlation of 0.4, followed by Online security (0.35) and Tech Support (0,34). 
+In general, the variables have at most a moderate relationship with churn. The strongest correlation with churn has contract types with a statistically significant correlation of 0.4, followed by Online security (0.35) and Tech Support (0,34). Interestingly, socio-demographic variables - gender, dependents, partner and senior citizen have only a weak relationship with churn.
 
-Interestingly, customers without internet service, tend to churn less compared to customers with internet service. When focusing on the customers with internet service, they are more likely to churn if they don´t take advantage of the features Online Security, Online Backup, Device Protection and Tech Support.
+
+Customers without internet service tend to churn less compared to customers with internet service. When focusing on the customers with internet service, they are more likely to churn if they don´t take advantage of the features Online Security, Online Backup, Device Protection and Tech Support.
 
 ![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
 
-Finally, all socio-demographic variables - gender, dependents, partner and senior citizen, have small correlations with churn.
+As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was divided into two groups: customers who churn within 8 months and customers who stay longer than 8 months.
 
 
 # 4 Recommendations
