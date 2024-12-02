@@ -57,7 +57,7 @@ This very high proportion apply soley to customers with a month-to-month contrac
 
 ## 3.2 Correlation Churn with variables
 
-In general, the variables have at most a moderate relationship with churn. The strongest correlation with churn has contract types with a statistically significant correlation of 0.4, followed by Online security (0.35) and Tech Support (0,34). Interestingly, socio-demographic variables - gender, dependents, partner and senior citizen have only a weak relationship with churn.
+In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract types with a statistically significant correlation of 0.4, followed by Online security (0.35) and Tech Support (0,34). Interestingly, socio-demographic variables - gender, dependents, partner and senior citizen have only a weak relationship with churn (from 0.009 to 0.165).
 
 
 Customers without internet service tend to churn less compared to customers with internet service. When focusing on the customers with internet service, they are more likely to churn if they don´t take advantage of the features Online Security, Online Backup, Device Protection and Tech Support.
