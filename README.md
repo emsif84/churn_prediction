@@ -64,7 +64,7 @@ Customers without internet service tend to churn less compared to customers with
 
 ![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
 
-As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who have churned within 8 months to those who did not. The results present a slightly different picture compared to the overall correlations. Internet Service has now the highest correlation of 0.42 with churn, followed by the feature variables Online Security (0.38), Tech Support (0.37) and Online Backup (0.34). The most interesting finding is that the variable Contract is no longer as meaningfull as in the overall analyis. While contract shows the highest correlation of 0.41 in the overall analysis, its correlation with churn drops to the tenth position with a value of 0.25.
+As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who have churned within 8 months to those who did not. The results present a slightly different picture compared to the overall correlations. Internet Service has now the highest correlation of 0.42 with churn, followed by the feature variables Online Security (0.38), Tech Support (0.37) and Online Backup (0.34).
 
 
 # 4 Recommendations
