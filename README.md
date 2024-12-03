@@ -64,7 +64,7 @@ Customers without internet service tend to churn less compared to customers with
 
 ![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
 
-As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who have churned within 8 months to those who did not. Results show a slightly different picture compared to the overall correlations.
+As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who have churned within 8 months to those who did not. The results present a slightly different picture compared to the overall correlations, but essentially, there were no significant differences. 
 
 
 # 4 Recommendations
