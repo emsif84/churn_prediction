@@ -69,6 +69,9 @@ As mentioned in the previous section, 47% of customers churn within the first 8 
 
 # 4 Recommendations
 
+1. The primary strategy aims to minimise the high churn rate observed in the first 8 months. Therefore the focus lies on costumers with month-month-contracts.
+2. When adjusting the variables for targeted interventions, the emphasis should be placed less on socio-demographic factors and more on feature variables such as Online Security, Online Backup, Device Protection, and Tech Support.
+
 # 5 Caveat
 
 
