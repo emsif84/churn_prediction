@@ -40,7 +40,7 @@ After tidying the dataset has `7030 observations` and `21 variables` which can b
 # 3 Executive Summary
 
 ## 3.1 Churn Rate
-In total, based on this data `26%` of the customers has churned in 6 years. The customer asset has decreased from 7030 to 5202 customers.
+In total, based on this data `26%` of the customers has churned in 6 years. The customer asset has decreased from 7030 to 5202 customers, apart from customers who have signed contracts during this period.
 
 When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the Internet Service (right figure), 44% of the customers have a fiber optic contract, followed by 34% of customers with a DSL contract and lastly 22% customers with no Internet Service.
 
