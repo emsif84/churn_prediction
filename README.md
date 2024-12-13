@@ -69,7 +69,7 @@ As mentioned in the previous section, 47% of customers churn within the first 8 
 
 # 4 Recommendations
 
-1. The primary strategy aims to minimise the high churn rate observed in the first 8 months. Therefore the focus lies on costumers with month-month-contracts.
+1. The primary strategy aims to minimise the high churn rate observed in the first 8 months. Therefore the focus lies on costumers with month-month-contracts and with fiber optic as their Internet Service.
 2. When adjusting the variables for targeted interventions, the emphasis should be placed less on socio-demographic factors and more on the variables Online Security, Online Backup, Device Protection, Tech Support as well as StreamingTV and StreamingMovies. Customers with Internet Service who do not utilize these features are more likely to churn. Therefore, the goal should be to implement interventions that motivate customers to take advantage of these services.
 
 # 5 Caveat
