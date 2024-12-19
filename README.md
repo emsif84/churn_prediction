@@ -68,7 +68,7 @@ As mentioned in the previous section, 47% of customers churn within the first 8 
 
 ![Churn by categorical variables ~ tenure <= 8 months](/assets/img/churn_by_categorical_variables_tenure_less_8months.png)
 
-The results present a slightly different picture compared to the overall correlations. Internet service has now the highest correlation of 0.42 with churn, followed by the variables online security (0.38, p<0.01), tech support (0.37, p<0.01) and online backup (0.34, p<0.01). Lastly, as already mentioned above, this high proportion may exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, feature variables still have the strongest relationship with churn, while socio-demographic variables show the weakest correlation.
+The results present a slightly different picture compared to the overall correlations. Internet service has now the highest correlation of 0.42 (p<0.01) with churn, followed by the variables online security (0.38, p<0.01), tech support (0.37, p<0.01) and online backup (0.34, p<0.01). Lastly, as already mentioned above, this high proportion may exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, feature variables still have the strongest relationship with churn, while socio-demographic variables show the weakest correlation.
 
 # 4 Recommendations
 
