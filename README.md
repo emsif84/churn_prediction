@@ -68,7 +68,8 @@ As mentioned in the previous section, 47% of customers churn within the first 8 
 
 ![Churn by categorical variables ~ tenure <= 8 months](/assets/img/churn_by_categorical_variables_tenure_less_8months.png)
 
-The results present a slightly different picture compared to the overall correlations. Internet service has now the highest correlation of 0.42 (p<0.01) with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service. Internet service is followed by the variables online security (0.38, p<0.01), tech support (0.37, p<0.01) and online backup (0.34, p<0.01). And lastly, as already mentioned above, the high churn rate in the first 8 months exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, feature variables still have the strongest relationship with churn, while socio-demographic variables show the weakest correlation.
+The results present a slightly different picture compared to the overall correlations. Internet service has now the highest correlation of 0.42 (p<0.01) with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service. 
+Internet service is followed by the variables online security (0.38, p<0.01), tech support (0.37, p<0.01) and online backup (0.34, p<0.01). And lastly, as already mentioned above, the high churn rate in the first 8 months exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, feature variables still have the strongest relationship with churn, while socio-demographic variables show the weakest correlation.
 
 # 4 Recommendations
 
@@ -77,8 +78,3 @@ The results present a slightly different picture compared to the overall correla
 2. Based on the primary strategy, fiber optic service (stability etc.) must be maintained. 
 3. The primary strategy aims to minimise the high churn rate observed in the first 8 months. Therefore the focus lies on costumers with month-month-contracts and with fiber optic as their Internet Service.
 2. When adjusting the variables for targeted interventions, the emphasis should be placed less on socio-demographic factors and more on the variables Online Security, Online Backup, Device Protection and Tech Support. Customers with Internet Service who do not utilize these features are more likely to churn. Therefore, the goal should be to implement interventions that motivate customers to take advantage of these services.
-
-# 5 Caveat
-
-
-
