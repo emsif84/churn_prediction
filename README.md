@@ -63,6 +63,7 @@ When looking at the variables which are only accessible to customers with intern
 in comparison to those who have DSL or fiber optic as an internet service. Beyond that, customers who have internet service tend to churn more when they don´t take advantage of them.
 
 ![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
+<br><br>
 
 As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months.
 
