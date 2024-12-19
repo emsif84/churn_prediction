@@ -59,10 +59,10 @@ This very high proportion apply soley to customers with a month-to-month contrac
 
 In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract type with a statistically significant correlation of 0.4 (p<0.01), followed by online security (0.35, p<0.01) and tech support (0,34, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen have only a weak relationship with churn (from 0.009 to 0.165).
 
+![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
+
 When looking at the variables which are only accessible to customers with internet service, i.e. online backup, online security, tech support and device protection, customers without any internet service are less likely to churn
 in comparison to those who have DSL or fiber optic as an internet service. Beyond that, customers who have internet service tend to churn more when they don´t take advantage of them.
-
-![Churn by categorical variables](/assets/img/churn_by_categorical_variable.png)
 <br><br>
 
 As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months.
