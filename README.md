@@ -75,8 +75,12 @@ Lastly, as already mentioned above, the high churn rate in the first 8 months ex
 
 # 4 Recommendations
 
+1. Based on the results, it is recommended that the primary strategy should focus on minimizing the high churn rate during the first 8 months. Targeted interventions must be implemented to adress this high churn rate. This includes both customers with a month-to-month contract and customers using fiber optic as an internet service.
+2. 
+
+
 1. Based on the results, the longterm strategy is to bring more customers to fiber optic contracts because of the higher customer value. This strategy must maintained a good internet Service (stability etc.) 
 2. A second longterm strategy is to bring more customers to Two year contracts instead of month-to-month contracts.
 2. Based on the primary strategy, fiber optic service (stability etc.) must be maintained. 
-3. The primary strategy aims to minimise the high churn rate observed in the first 8 months. Therefore the focus lies on costumers with month-month-contracts and with fiber optic as their Internet Service.
+
 2. When adjusting the variables for targeted interventions, the emphasis should be placed less on socio-demographic factors and more on the variables Online Security, Online Backup, Device Protection and Tech Support. Customers with Internet Service who do not utilize these features are more likely to churn. Therefore, the goal should be to implement interventions that motivate customers to take advantage of these services.
