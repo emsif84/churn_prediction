@@ -5,7 +5,7 @@
 * The goal of this analysis is to explore the churn und revenue rate as well as to find patterns how the variables interact with churn. Based on the findings an another goal is to give recommendations to decrease the churn rate on a long-run. 
 
 # 2 Data Structure
-After tidying the dataset has `7030 observations` and `21 variables` which can be divided into `7 classes`:
+After tidying the dataset has 7030 observations and 21 variables which can be divided into 7 classes:
 
 1. `Key variable`: 
     * CustomerID
@@ -42,7 +42,7 @@ After tidying the dataset has `7030 observations` and `21 variables` which can b
 ## 3.1 Churn Rate
 In total, based on this data 26% of the customers has churned in 6 years. The customer asset has decreased from 7030 to 5202 customers, apart from customers who have signed contracts during this period.
 
-When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the internet service (right figure), 44% of the customers have a fiber optic contract, followed by 34% of customers with a DSL contract and lastly 22% customers with no internet service.
+When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the internet service (right figure), 44% of customers have a fiber optic as a service, followed by 34% of customers with DSL and lastly 22% customers with no internet service.
 
 ![Churn by Internet Service and Contract Types](/assets/img/churn_by_contracttypes_internetservice.png)
 
