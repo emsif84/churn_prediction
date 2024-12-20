@@ -76,11 +76,8 @@ Lastly, as already mentioned above, the high churn rate in the first 8 months ex
 # 4 Recommendations
 
 1. Based on the results, it is recommended that the primary strategy should focus on minimizing the high churn rate during the first 8 months. Targeted interventions must be implemented to adress this high churn rate. This includes both customers with a month-to-month contract and customers using fiber optic as an internet service.
-2. Following the primary strategy, interventions should aim to encourage more customers to choose a two year contract. This guarantee long term revenue, opens the oppurtunity to develop the customer relationship and development. 
+2. Following the primary strategy, interventions should aim to encourage more customers to choose a two year contract. This guarantee long term revenue, opens the oppurtunity to develop the customer relationship and development. Interventions could be more attractive prices, access to extra services or access to loyalty programs.
+3. According to the internet service, despite the higher churn rate among customers with fiber optic as an internet service, due to the national goal of spreading fiber optic,     
 
 
-1. Based on the results, the longterm strategy is to bring more customers to fiber optic contracts because of the higher customer value. This strategy must maintained a good internet Service (stability etc.) 
-2. A second longterm strategy is to bring more customers to Two year contracts instead of month-to-month contracts.
-2. Based on the primary strategy, fiber optic service (stability etc.) must be maintained. 
-
-2. When adjusting the variables for targeted interventions, the emphasis should be placed less on socio-demographic factors and more on the variables Online Security, Online Backup, Device Protection and Tech Support. Customers with Internet Service who do not utilize these features are more likely to churn. Therefore, the goal should be to implement interventions that motivate customers to take advantage of these services.
+4. When addressing the variables for targeted interventions, the emphasis should be placed less on socio-demographic factors and more on the variables Online Security, Online Backup, Device Protection and Tech Support. Customers with Internet Service who do not utilize these features are more likely to churn. Therefore, the goal should be to implement interventions that motivate customers to take advantage of these services.
