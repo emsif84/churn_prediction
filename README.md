@@ -51,7 +51,7 @@ This very high proportion apply soley to customers with a month-to-month contrac
 
 ## 3.2 Correlation Churn with variables
 
-In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen have only a weak relationship with churn.
+In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
 
 When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the internet service (right figure), 44% of customers have a fiber optic as a service, followed by 34% of customers with DSL and lastly 22% customers with no internet service.
 
