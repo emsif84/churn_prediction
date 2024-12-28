@@ -42,20 +42,20 @@ After tidying the dataset has 7030 observations and 21 variables which can be di
 ## 3.1 Churn Rate
 In total, based on this data 26% of the customers has churned in 6 years. The customer asset has decreased from 7030 to 5202 customers, apart from customers who have signed contracts during this period.
 
-When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the internet service (right figure), 44% of customers have a fiber optic as a service, followed by 34% of customers with DSL and lastly 22% customers with no internet service.
-
-![Churn by Internet Service and Contract Types](/assets/img/churn_by_contracttypes_internetservice.png)
-
-Examing the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%. Regarding the churn rate by internet service, customers with a fiber optic contract have the highest churn rate of 42%, customers with a DSL contract have a churn rate of 19% and customers with no internet service have a rate of 7%.<br>
-
 When analysing the churn rate among tenure, a high high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months.  
 
-![Total Distribution of Churn among tenure](/assets/img/Total_Distribution_of_Churn_among_tenure.png)
+![Churn among months](/assets/img/churn_among_months.png)
 
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. This finding will be discussed in the following section.
 
 
 ## 3.2 Correlation Churn with variables
+
+When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the internet service (right figure), 44% of customers have a fiber optic as a service, followed by 34% of customers with DSL and lastly 22% customers with no internet service.
+
+![Churn by Internet Service and Contract Types](/assets/img/churn_by_contracttypes_internetservice.png)
+
+Examing the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%. Regarding the churn rate by internet service, customers with a fiber optic contract have the highest churn rate of 42%, customers with a DSL contract have a churn rate of 19% and customers with no internet service have a rate of 7%.<br>
 
 In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract type with a statistically significant correlation of 0.4 (p<0.01), followed by online security (0.35, p<0.01) and tech support (0,34, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen have only a weak relationship with churn (from 0.009 to 0.165).
 
