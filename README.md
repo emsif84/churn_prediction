@@ -57,15 +57,9 @@ When Looking at the contract distribution (left figure), 55% of customers have a
 ![Churn by Internet Service and Contract Types](/assets/img/churn_by_contracttypes_internetservice.png)
 
 Examing the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%. Regarding the churn rate by internet service, customers with a fiber optic contract have the highest churn rate of 42%, customers with a DSL contract have a churn rate of 19% and customers with no internet service have a rate of 7%.<br>
-
 Analyzing the variables accessible only to customers with internet service (count=5508), i.e. online security, tech support, online backup and device protection - online security  (Cramers´V=0.28, p<0.01) and tech support (Cramers´V= .27, p<0.01) have the strongest correlation with churn.
 
-As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months.
-
-The results present a slightly different picture compared to the overall correlations. The most striking, internet service has now the highest correlation of 0.42 (p<0.01) with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service.<br>
-
-Furthermore, internet service is followed by  payment method (Cramers'V=0.28, p<0.01) and paperless billing (Cramers'V=0.25,p<0.01). Online security decreased to 0.21 (Cramers'V, p<0.01) but still shows the strongest relationship with churn among customers with internet service, while tech support dropped to 0.17 (Cramers'V, p<0.01)
-
+As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months. The results present a slightly different picture compared to the overall correlations. The most striking, internet service has now the highest correlation of 0.42 (p<0.01) with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service. Furthermore, internet service is followed by  payment method (Cramers'V=0.28, p<0.01) and paperless billing (Cramers'V=0.25,p<0.01). Online security decreased to 0.21 (Cramers'V, p<0.01) but still shows the strongest relationship with churn among customers with internet service, while tech support dropped to 0.17 (Cramers'V, p<0.01)
 Lastly, as already mentioned, the high churn rate in the first 8 months exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, internet service and indirect contract types have the strongest relationship with churn, while the correlation with socio-demographic variables remain weak.
 
 # 4 Recommendations
