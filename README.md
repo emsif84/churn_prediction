@@ -40,14 +40,13 @@ After tidying the dataset has 7030 observations and 21 variables which can be di
 # 3 Executive Summary
 
 ## 3.1 Churn Rate
-In total, based on this data 26% of the customers has churned in 6 years. The customer asset has decreased from 7030 to 5202 customers, apart from customers who have signed contracts during this period.
+In total, based on this data 26% of the customers have churned in 6 years. The customer asset has decreased from 7030 to 5202 customers, apart from customers who have signed contracts during this period.
 
 When analysing the churn rate among tenure, a high high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months.  
 
 ![Churn among months](/assets/img/churn_among_months.png)
 
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. This finding will be discussed in the following section.
-
 
 ## 3.2 Correlation Churn with variables
 
@@ -63,12 +62,11 @@ Analyzing the variables accessible only to customers with internet service (coun
 
 As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months.
 
-![Churn by categorical variables ~ tenure <= 8 months](/assets/img/churn_by_categorical_variables_tenure_less_8months.png)
-
 The results present a slightly different picture compared to the overall correlations. The most striking, internet service has now the highest correlation of 0.42 (p<0.01) with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service.<br>
 
-Furthermore, internet service is followed by the variables online security (0.38, p<0.01), tech support (0.37, p<0.01) and online backup (0.34, p<0.01). As previously stated, customers with internet service tend to churn more but now it is sligthly more balanced between customers who take advantage of them to those who do not take advantage.<br>
-Lastly, as already mentioned above, the high churn rate in the first 8 months exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, feature variables still have the strongest relationship with churn, while socio-demographic variables show the weakest correlation.
+Furthermore, internet service is followed by  payment method (Cramers'V=0.28, p<0.01) and paperless billing (Cramers'V=0.25,p<0.01). Online security decreased to 0.21 (Cramers'V, p<0.01) but still shows the strongest relationship with churn among customers with internet service, while tech support dropped to 0.17 (Cramers'V, p<0.01)
+
+Lastly, as already mentioned, the high churn rate in the first 8 months exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, internet service and indirect contract types have the strongest relationship with churn, while the correlation with socio-demographic variables remain weak.
 
 # 4 Recommendations
 
