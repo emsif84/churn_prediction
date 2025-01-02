@@ -42,11 +42,13 @@ After tidying the dataset has 7030 observations and 21 variables which can be di
 ## 3.1 Churn Rate
 In total, based on this data 26% of the customers have churned in 6 years. The customer asset has decreased from 7030 to 5202 customers, apart from customers who have signed contracts during this period.
 
-When analysing the churn rate among tenure, a high high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months.  
+When analysing the churn rate among tenure, a high high proportion of customers churn already within few months. Considerable 47% of customers already churn in the first 8 months.
 
 ![Churn among months](/assets/img/churn_among_months.png)
 
-This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. This finding will be discussed in the following section.
+This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. This finding will be discussed in the following section. 
+
+Based on the minimal duration of each contract type, customers with a month-to-month contract churn after a median of 7 months, customers with a one-year contract churn after a median of 39 months, and customers with a two-year contract churn after a median of 41 months. This indicates that the type of contract influences the moment a customer is likely to churn.
 
 ## 3.2 Correlation Churn with variables
 
