@@ -52,6 +52,8 @@ To analyze the median churn moment of each contract type, tenure was scaled with
 
 ![Distribution churn rate among internet service](/assets/img/distribution_internetservice_churn_yes.png)
 
+As seen in the plots above, the distribution of the churn moment among customers with a month-to-month contract is high right skrewed (left plot). A significant proportation of customers churn in the beginning of their contract as mentioned in the previous section. In contrast, the distribution of the churn moment for customers with a one year contract is more balanced, while the distribution for customers with a two year contract is also highly skrewed, but to the left.
+
 ## 3.2 Churn Value
 The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a proportion of 18%. When looking at the monthly charges
 
