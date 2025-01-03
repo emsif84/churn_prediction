@@ -50,7 +50,12 @@ This very high proportion apply soley to customers with a month-to-month contrac
 
 To analyze the median churn moment of each contract type, tenure was scaled with a baseline of zero in each contract type to account for its minimal duration. Based on this scaling, the median churn moment of month-to-month contracts is 7 months, the median churn moment of one year contracts is 39 months and the median churn moment of two year contracts is 41 months. This indicates that the type of contract influences the moment a customer is likely to churn.
 
-## 3.2 Correlation Churn with variables
+![Distribution churn rate among internet service](/assets/img/distribution_internetservice_churn_yes.png)
+
+## 3.2 Churn Value
+The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a proportion of 18%. When looking at the monthly charges
+
+## 3.3 Correlation Churn with variables
 
 In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
 
@@ -68,4 +73,4 @@ Lastly, as already mentioned, the high churn rate in the first 8 months exists d
 
 1. Based on the results, it is recommended that the primary strategy should focus on minimizing the high churn rate during the first 8 months. Targeted interventions must be implemented to adress this high churn rate. This primary includes both customers with a month-to-month contract and customers using fiber optic as an internet service.
 2. Following the primary strategy, interventions should aim to encourage more customers to choose a two year contract. This guarantee long-term revenue, opens the oppurtunity to develop the customer relationship and development. Interventions could be more attractive prices, access to extra services or access to loyalty programs.
-3. When addressing internet service for tackling the high churn rate among customers particularly with fiber optic as a service, and in light of national goals to diffuse fiber optic technology, the long-term strategy should be to convince more customers of both the short-term and long-term benefits of choosing fiber optic technology.
+3. When addressing internet service for tackling the high churn rate among customers particularly with fiber optic as a service, and in light of national goals to diffuse fiber optic technology, the long-term strategy should be to convince more customers of both the short-term and long-term benefits of choosing fiber optic technology. Regarding of a recent study of Bearingpoint (2024*) about the acceptance of fiber optic among german households, 
