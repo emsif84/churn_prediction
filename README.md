@@ -48,6 +48,7 @@ When analysing the churn rate among tenure, a high high proportion of customers 
 
 This very high proportion apply soley to customers with a month-to-month contract due to their not existing minimal contract duration. Furthermore because of the high volume of month-to-month contracts at the same time. This finding will be discussed in the following section. 
 
+\_Distribution churn rate among internet services\_
 To analyze the median churn moment of each contract type, tenure was scaled with a baseline of zero in each contract type to account for its minimal duration. Based on this scaling, the median churn moment of month-to-month contracts is 7 months, the median churn moment of one year contracts is 39 months and the median churn moment of two year contracts is 41 months. This indicates that the type of contract influences the moment a customer is likely to churn.
 
 ![Distribution churn rate among internet service](/assets/img/distribution_internetservice_churn_yes.png)
