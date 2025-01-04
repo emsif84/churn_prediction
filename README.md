@@ -61,7 +61,7 @@ The sum of total charges account for $16,050,465 whereas the sum of total charge
 
 In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
 
-When Looking at the contract distribution (left figure), 55% of customers have a month-to-month contract, followed by customers with a two year contract (24%) and a one year contract (21%). When looking at the distribution of the internet service (right figure), 44% of customers have fiber optic as a service, followed by 34% of customers with DSL and lastly 22% customers with no internet service.
+When analyzing the contract distribution (left plot), 3875 customers have a month-to-month contract (55%), followed by 1695 customers with a two year contract (24%) and 1460 customers with a one year contract (21%). Regarding the distribution of internet service (right plot), 3094 customers have fiber optic as a service (44%), followed by 2414 customers with DSL (34%) and lastly 1522  customers with no internet service (22%).
 
 ![Churn by InternetService, Contract, PaymentMethod](/assets/img/churn_by_internetservice_contract_paymentmethod.png)
 
