@@ -54,10 +54,10 @@ To analyze the median churn moment of each contract type, tenure was scaled with
 
 As seen in the plots above, the distribution of the churn moment among customers with a month-to-month contract is highly right skrewed (left plot). A significant proportion of customers churn in the beginning of their contract as mentioned in the previous section. In contrast, the distribution of the churn moment for customers with a one year contract is more balanced (middle plot) but also shows a tendency to increase with higher tenure. Lastly, the distribution for customers with a two year contract is also highly skrewed, but to the left (right plot).
 
-## 3.2 Churn Value
-The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a furture loss of 18% apart from customers who have signed contracts during this period.
+<!--## 3.2 Churn Value
+The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a furture loss of 18% apart from customers who have signed contracts during this period.-->
 
-## 3.3 Correlation Churn with variables
+## 3.2 Correlation Churn with variables
 
 In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
 
