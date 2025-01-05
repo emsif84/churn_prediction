@@ -57,12 +57,12 @@ As seen in the plots above, the distribution of the churn moment among customers
 ## 3.2 Churn Value
 The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a furture loss of 18% apart from customers who have signed contracts during this period.
 
-When focusing on monthly charges, in general, the median monthly charges of $80 among customers who have churned is higher in comparison to those who have not with $64. 
-Breaking down the median monthly charges among internet services, the median of $92 is the highest among customers with fiber optic, followed by customers with DSL with a median of $56 and lastly customers with no internet service with a median of $20.
+When focusing on monthly charges, the median monthly charge of $80 among customers who have churned is generally higher compared to $64 for those who have not churned. 
+Breaking down the median monthly charges among internet services, customers with fiber optic have the highest median of $92, followed by customers with DSL at $56 and finally customers with no internet service at $20. 
 
 ![Churn Value among Internetservice](/assets/img/distribution_monthly_charges_by_internet_service_and_churn.png)
 
-When comparing the distribution of the median monthly charges between customers who haved churned and those who have not, the median charges of $87 among customers with fiber optic who have churned is lower to those who have not churned with $95. Similarly, the median monthly charges for customers with DSL who have churned is $49, compared to $60 for those who have not churned. Customers with no internet service have a median monthly charges of $20, regardless of whether they have churned or not.
+When comparing the distribution of the median monthly charge between customers who haved churned and those who have not, the median charges of $87 among customers with fiber optic who have churned is lower to those who have not churned with $95. Similarly, the median monthly charges for customers with DSL who have churned is $49, compared to $60 for those who have not churned. Customers with no internet service have a median monthly charges of $20, regardless of whether they have churned or not.
 
 ## 3.3 Correlation Churn with variables
 
