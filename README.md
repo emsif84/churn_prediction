@@ -58,7 +58,7 @@ As seen in the plots above, the distribution of the churn moment among customers
 The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a furture loss of 18% apart from customers who have signed contracts during this period.
 
 When focusing on monthly charges, the median monthly charge of $80 among customers who have churned is generally higher compared to $64 for those who have not churned. 
-Breaking down the median monthly charges among internet services, customers with fiber optic have the highest median of $92, followed by customers with DSL at $56 and finally customers with no internet service at $20. 
+Breaking down the median monthly charges to internet services, customers with fiber optic have the highest median of $92, followed by customers with DSL at $56 and finally customers with no internet service at $20. 
 
 ![MonhtlyCharges by Internet Service and Churn](/assets/img/monthlycharges_internetservice_churn.png)
 
