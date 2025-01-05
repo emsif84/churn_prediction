@@ -54,10 +54,17 @@ To analyze the median churn moment of each contract type, tenure was scaled with
 
 As seen in the plots above, the distribution of the churn moment among customers with a month-to-month contract is highly right skrewed (left plot). A significant proportion of customers churn in the beginning of their contract as mentioned in the previous section. In contrast, the distribution of the churn moment for customers with a one year contract is more balanced (middle plot) but also shows a tendency to increase with higher tenure. Lastly, the distribution for customers with a two year contract is also highly skrewed, but to the left (right plot).
 
-<!--## 3.2 Churn Value
-The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a furture loss of 18% apart from customers who have signed contracts during this period.-->
+## 3.2 Churn Value
+The sum of total charges account for $16,050,465 whereas the sum of total charges among customers who have churned account for $2,857,223. This makes a furture loss of 18% apart from customers who have signed contracts during this period.
 
-## 3.2 Correlation Churn with variables
+When focusing on monthly charges, in general, the median monthly charges of $80 among customers who have churned is higher in comparison to those who have not with $64. 
+Breaking down the median monthly charges among internet services, the median of $92 is the highest among customers with fiber optic, followed by customers with DSL with a median of $56 and lastly customers with no internet service with a median of $20.
+
+![Churn Value among Internetservice](/assets/img/distribution_monthly_charges_by_internet_service_and_churn.png)
+
+When comparing the distribution of the median monthly charges between customers who haved churned and those who have not, the median charges of $87 among customers with fiber optic who have churned is lower to those who have not churned with $95. Similarly, the median monthly charges for customers with DSL who have churned is $49, compared to $60 for those who have not churned. Customers with no internet service have a median monthly charges of $20, regardless of whether they have churned or not.
+
+## 3.3 Correlation Churn with variables
 
 In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
 
