@@ -85,4 +85,4 @@ Lastly, as already mentioned, the high churn rate in the first 8 months exists d
 3. When addressing internet service for tackling the high churn rate among customers particularly with fiber optic as a service, and in light of national goals to diffuse fiber optic technology, the long-term strategy should be to convince more customers of both the short-term and long-term benefits of choosing fiber optic technology. <!--Regarding of a recent study of Bearingpoint (2024*) about the acceptance of fiber optic among german households-->
 
 
-*/ low effect: V=0.1; middle effect: V=0.3; high effect: V=0.5
+\* low effect: V=0.1; middle effect: V=0.3; high effect: V=0.5
