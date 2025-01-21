@@ -66,16 +66,16 @@ When comparing the distribution of the median monthly charge between customers w
 
 ## 3.3 Correlation Churn with variables
 
-In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (Cramers`v=0.41*, p<0.01), followed by internet service (Cramers'V=0,33, p<0.01) and payment method (Cramers'V=0,30, p<0.01). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
+In general, all variables have at most a moderate relationship with churn. The strongest correlation with churn has contract (0.41*), followed by internet service (0.33) and payment method (0.30). Interestingly, socio-demographic variables, i.e. gender, dependents, partner and senior citizen show only a weak relationship with churn and therefore play only a subordinate role in predicting it.
 
 When analyzing the contract distribution (left plot), 3875 customers have a month-to-month contract (55%), followed by 1695 customers with a two year contract (24%) and 1460 customers with a one year contract (21%). Regarding the distribution of internet service (right plot), 3094 customers have fiber optic as a service (44%), followed by 2414 customers with DSL (34%) and lastly 1522 customers with no internet service (22%).
 
 ![Churn by InternetService, Contract](/assets/img/churn_by_internetservice_contract.png)
 
 Examing the churn rate per contract type, customers with a month-to-month contract have a very high churn rate of 43%, whereas customers with a one year contract only have a rate of 10%. Customers with a two year contract have the lowest churn rate of 3%. Regarding the churn rate among internet service, customers with fiber optic have the highest churn rate of 42%, customers with DSL have a churn rate of 19% and customers with no internet service have a rate of 7%.<br>
-Analyzing the variables accessible only to customers with internet service (count=5508), i.e. online security, tech support, online backup and device protection - online security  (Cramers´V=0.28, p<0.01) and tech support (Cramers´V= .27, p<0.01) have the strongest correlation with churn.
+Analyzing the variables accessible only to customers with internet service (count=5508), i.e. online security, tech support, online backup and device protection - online security  (0.28) and tech support (0.27) have the strongest correlation with churn.
 
-As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months. The results present a slightly different picture compared to the overall correlations. The most striking, internet service has now the highest correlation of 0.42 (p<0.01) with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service. Furthermore, internet service is followed by  payment method (Cramers'V=0.28, p<0.01) and paperless billing (Cramers'V=0.25,p<0.01). Online security decreased to 0.21 (Cramers'V, p<0.01) but still shows the strongest relationship with churn among customers with internet service, while tech support dropped to 0.17 (Cramers'V, p<0.01)
+As mentioned in the previous section, 47% of customers churn within the first 8 months. All these customers have a month-to-month-contract. This raises the question of why this happens. To anwser this question, data was analyzed by comparing customers who churned to those who don´t churned within 8 months. The results present a slightly different picture compared to the overall correlations. The most striking, internet service has now the highest correlation of 0.42 with churn. It´s more likely that customers with fiber optic tend to churn more in the first 8 months compared to customers with DSL or with no internet service. Furthermore, internet service is followed by  payment method (0.28) and paperless billing (0.25). Online security decreased to 0.21 but still shows the strongest relationship with churn among customers with internet service, while tech support dropped to 0.17.
 Lastly, as already mentioned, the high churn rate in the first 8 months exists due to the contract type itself. Customers choose month-to-month contracts to have the flexibility to churn at any time. All in all, internet service and indirect contract types have the strongest relationship with churn, while the correlation with socio-demographic variables remain weak.
 
 # 4 Recommendations
@@ -87,4 +87,4 @@ Lastly, as already mentioned, the high churn rate in the first 8 months exists d
 <br>
 <br>
 
-\* low effect: V=0.1; middle effect: V=0.3; high effect: V=0.5
+\* Cramers'V: low effect: V=0.1; middle effect: V=0.3; high effect: V=0.5
