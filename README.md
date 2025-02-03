@@ -1,8 +1,7 @@
 # 1 Background and Goals
 
+* The goal of this analysis is to explore the churn rate as well as to find patterns how the variables interact with churn. Based on the findings an another goal is to give recommendations to decrease the churn rate on a long-run. 
 * Source: https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/input
-* Why did I choose this dataset? I am currently working in the Telco Industry and therefore i am familiar with this kind of data.
-* The goal of this analysis is to explore the churn und revenue rate as well as to find patterns how the variables interact with churn. Based on the findings an another goal is to give recommendations to decrease the churn rate on a long-run. 
 
 # 2 Data Structure
 After tidying the dataset has 7030 observations and 21 variables which can be divided into 7 classes:
