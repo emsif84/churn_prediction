@@ -87,5 +87,3 @@ Lastly, as already mentioned, the high churn rate in the first 8 months exists d
 <br>
 
 \* Cramers'V: low effect: V=0.1; middle effect: V=0.3; high effect: V=0.5
-
-test
